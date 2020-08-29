@@ -96,6 +96,7 @@ public class AutoSkystone extends LinearOpMode {
     private static final boolean PHONE_IS_PORTRAIT = true  ;
 
     // MEANINGLESS CHANGE to test GIT integration -- by Jared
+    int meaninglessInt = 97;
 
 
     /*
