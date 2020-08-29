@@ -95,10 +95,7 @@ public class AutoSkystone extends LinearOpMode {
     private static final VuforiaLocalizer.CameraDirection CAMERA_CHOICE = BACK;
     private static final boolean PHONE_IS_PORTRAIT = true  ;
 
-    // MEANINGLESS CHANGE to test GIT integration -- by Jared
-    int meaninglessInt = 97;
-    double anotherMeaninglessTest = 0.0;
-
+    private int jaredNewBranchMeaninglessTest = 97;
 
     /*
      * IMPORTANT: You need to obtain your own license key to use Vuforia. The string below with which
