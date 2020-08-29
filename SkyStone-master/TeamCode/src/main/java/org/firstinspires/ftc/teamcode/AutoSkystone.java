@@ -97,6 +97,7 @@ public class AutoSkystone extends LinearOpMode {
 
     // MEANINGLESS CHANGE to test GIT integration -- by Jared
     int meaninglessInt = 97;
+    double anotherMeaninglessTest = 0.0;
 
 
     /*
