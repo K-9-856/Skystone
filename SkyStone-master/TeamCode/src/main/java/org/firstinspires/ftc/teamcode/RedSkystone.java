@@ -69,6 +69,8 @@ public class RedSkystone extends LinearOpMode {
     private ElapsedTime runtime = new ElapsedTime();
 
 
+    int uselessTestChange = 97;
+
 
     @Override
     public void runOpMode() {
