@@ -1,6 +1,7 @@
 package org.firstinspires.ftc.teamcode;
 
         import com.qualcomm.hardware.rev.RevBlinkinLedDriver;
+        import com.qualcomm.robotcore.eventloop.opmode.Disabled;
         import com.qualcomm.robotcore.eventloop.opmode.OpMode;
         import com.qualcomm.robotcore.hardware.CRServo;
         import com.qualcomm.robotcore.hardware.DcMotor;
@@ -9,6 +10,7 @@ package org.firstinspires.ftc.teamcode;
         import com.qualcomm.robotcore.util.ElapsedTime;
 
 @com.qualcomm.robotcore.eventloop.opmode.TeleOp(name="Drive: MecanumDrive Red", group="Drive")
+@Disabled
 public class MercanumDrive extends OpMode {
 
     public DcMotor arm;

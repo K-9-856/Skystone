@@ -62,7 +62,7 @@ import com.qualcomm.robotcore.util.ElapsedTime;
  */
 
 @Autonomous(name="Blue Drive to Line", group="Pushbot")
-//@Disabled
+@Disabled
 public class DriveToLine extends LinearOpMode {
 
     /* Declare OpMode members. */
